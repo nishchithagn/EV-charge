@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91216549540",
+    "project_id": "gramachargeev-master",
+    "storage_bucket": "gramachargeev-master.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91216549540:android:a6e752b5335abab9f4b831",
+        "android_client_info": {
+          "package_name": "com.example.evgramacharge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGYGXmwS2aOsjyYoZad9oBgtg19y8QL5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
